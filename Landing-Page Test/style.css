@@ -1,0 +1,64 @@
+.one{
+display:flex;
+justify-content: space-between;
+border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.OneFull{
+  display:flex;
+  justify-content: center;
+  gap: 30px;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.OneHalf{
+  display:flex;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.two{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.TwoFull{
+  display:flex;
+  justify-content: center;
+  gap: 30px;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.TwoHalf{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.three{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.four{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.FourHalf{
+  display:flex;
+  justify-content: center;
+  margin-left: 300px;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
