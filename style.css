@@ -1,144 +1,64 @@
-
-.header1 {
-    display: flex;
-    justify-content: space-around;
-    padding: 8px;
-    padding-bottom: 40px;
-    background-color: grey;
-  }
-
-  .left, .right {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    border-style: solid;
-    border-color: red;
-  }
-
-.left{
-  margin-eft
+.one{
+display:flex;
+justify-content: space-between;
+border-style: solid;
+border-color: rgb(87, 17, 17);
 }
 
-  .modal {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-    padding: 30px;
-    padding-bottom: 80px;
-    background-color: grey;
-    border-style: solid;
-    border-color: red;
-
-  }
-
-  .header2 {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-size: 30px;
-    font-weight: 700;
-    margin-bottom: 8px;
-  }
-
-  .bigpicture {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 8px;
-  }
-  
-  .text {
-    margin-bottom: 16px;
-  }
-
-.signup{
-  width: 70px;
-}
-
-  .title {
-    display:flex;
-    justify-content: center;
-    margin: 20px;
-    font-size: 30px;
-  }
-  
-  .container2 {
-    display: flex;
-    justify-content: center;
-    gap: 52px;
-    border-style: solid;
-    border-color: red;
-  }
-  
-  .info {
-    max-width: 200px;
-    border-style: solid;
-    border-color: red;
-  }
-
-  .container1 {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-    gap: 5px;
-    width: 375px;
-    border-style: solid;
-    border-color: red;
-  }
-
-  img {
-    padding: 45px;
-    margin:30px;
-    margin-bottom: 0px;
-    border-radius: 5%;
-    border-style: solid;
-    border-color: rgb(0, 183, 255);
-  }
-
-  .text2 {
-    text-align: center;
-    width: 135px;
-    margin-left: 30px;
-    border-style: solid;
-    border-color: red;
-  }
-
-  .container3 {
-    display: flex;
-    justify-content: center;
-    gap: 5px;
-    width: 400px;
-    border-style: solid;
-    border-color: red;
-  }
-
-      /* Quote begins here */
-.quotebox{
+.OneFull{
   display:flex;
   justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: 30px;
-  background-color: grey;
+  gap: 30px;
   border-style: solid;
-  border-color: red;
+  border-color: rgb(155, 16, 16);
 }
-  
-  .quote{
-    display:flex;
-    justify-content: center;
-    width: 700px;
-    font-size: 30px;
-    border-style: solid;
-    border-color: red;
-  }
 
-  .underquote{
-    display:flex;
-    justify-content: center;
-    width: 200px;
-    margin-left:300px;
-    border-style: solid;
-    border-color: red;
-  
-  }
+.OneHalf{
+  display:flex;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.two{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.TwoFull{
+  display:flex;
+  justify-content: center;
+  gap: 30px;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.TwoHalf{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
+
+.three{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.four{
+  display:flex;
+  justify-content: center;
+  border-style: solid;
+border-color: rgb(87, 17, 17);
+}
+
+.FourHalf{
+  display:flex;
+  justify-content: center;
+  margin-left: 300px;
+  border-style: solid;
+  border-color: rgb(155, 16, 16);
+}
